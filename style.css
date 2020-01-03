@@ -1,0 +1,13 @@
+:root{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.form-control-sm{
+    width: 700px;
+}
