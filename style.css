@@ -11,3 +11,7 @@
 .form-control-sm{
     width: 700px;
 }
+.btn-link{
+    float: right;
+    border-color: blue;
+}
